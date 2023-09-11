@@ -11,7 +11,7 @@
 [download-image]: https://img.shields.io/npm/dm/%40recuperateur/async-busboy
 [download-url]: https://www.npmjs.com/package/@recuperateur/async-busboy
 
-Note: This library is a fork of a fork of [async-busboy](https://github.com/m4nuC/async-busboy).
+Note: This library is a fork of a fork ([alqu/async-busboy](https://github.com/alqu/async-busboy)) of [m4nuC/async-busboy](https://github.com/m4nuC/async-busboy).
 
 The typical use case for this library is when handling forms that contain file upload field(s) mixed with other inputs.
 Parsing logic relies on [busboy](http://github.com/mscdex/busboy).
